@@ -1,0 +1,13 @@
+.yesclick, .noclick {
+    font-size: 28px;
+    font-family: "Helvectica", 'Times New Roman', serif
+}
+
+.noclick {
+    background-color: yellow;
+}
+
+.yesclick {
+    background-color: black;
+    color: white;
+}
